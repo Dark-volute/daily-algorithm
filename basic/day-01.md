@@ -1,5 +1,5 @@
 
-## [题目](https://leetcode-cn.com/problems/plus-one/)
+[https://leetcode-cn.com/problems/plus-one/](https://leetcode-cn.com/problems/plus-one/)
 
 ## 思路
 倒序遍历，如果不是9，加1返回。
