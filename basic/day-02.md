@@ -26,7 +26,7 @@ var shortestToChar = function(S, C) {
 # 滑动窗口解法
 
 ## 代码
-```
+```js
 var shortestToChar = function(S, C) {
     let l  = S[0] === C ? 0 : Infinity
     let r = S.indexOf(C)
