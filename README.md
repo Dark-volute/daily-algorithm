@@ -7,7 +7,7 @@
 - [【day-05】24. 两两交换链表中的节点](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-05.md)
 - [【day-06】142. 环形链表 II](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-06.md)
 - [【day-07】22. 链表中倒数第k个节点](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-07.md)
-
+- [【day-08】61. 旋转链表](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-08.md)
 ### 专题
 #### 单调栈
 - [739. 每日温度](https://github.com/Dark-volute/daily-algorithm/blob/main/category/739.md)
