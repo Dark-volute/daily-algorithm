@@ -3,6 +3,8 @@
 #### 数组
 - [【day-01】66.加一](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-01.md)
 - [【day-02】821. 字符的最短距离](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-02.md)
+
+#### 栈
 - [【day-03】394. 字符串解码](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-03.md)
 - [【day-04】768. 最多能完成排序的块 II](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-04.md)
 
@@ -13,9 +15,10 @@
 - [【day-08】61. 旋转链表](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-08.md)
 
 #### 树
-- [【day-09】104. 二叉树的最大深度](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-09.md)
+- [104. 二叉树的最大深度](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-09.md)
+- [100. 相同的树](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-12.md)
 
-#### hashmap
+#### HashMap
 - [【day-10】1. 两数之和](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-10.md)
 - [【day-11】347. 前k个高频元素](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-11.md)
 
