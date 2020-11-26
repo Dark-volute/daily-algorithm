@@ -30,3 +30,4 @@
 #### 双指针
 - [3. 无重复字符的最长子串](https://github.com/Dark-volute/daily-algorithm/blob/main/category/3.md)
 - [35. 搜索插入位置](https://github.com/Dark-volute/daily-algorithm/blob/main/category/35.md)
+- [74. 搜索二位矩阵](https://github.com/Dark-volute/daily-algorithm/blob/main/category/74.md)
