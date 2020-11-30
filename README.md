@@ -32,3 +32,6 @@
 - [35. 搜索插入位置](https://github.com/Dark-volute/daily-algorithm/blob/main/category/35.md)
 - [74. 搜索二位矩阵](https://github.com/Dark-volute/daily-algorithm/blob/main/category/74.md)
 - [876. 链表的中间结点](https://github.com/Dark-volute/daily-algorithm/blob/main/category/876.md)
+
+#### 滑动窗口
+- [1050. 爱生气的书店老板](https://github.com/Dark-volute/daily-algorithm/blob/main/category/爱生气的书店老板.md)
