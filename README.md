@@ -23,6 +23,9 @@
 - [【day-11】347. 前k个高频元素](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-11.md)
 - [【day-13】447. 回旋镖](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-13.md)
 
+#### 回溯
+- [78. 子集](https://github.com/Dark-volute/daily-algorithm/blob/main/category/子集.md)
+
 ### 专题
 #### 单调栈
 - [739. 每日温度](https://github.com/Dark-volute/daily-algorithm/blob/main/category/739.md)
