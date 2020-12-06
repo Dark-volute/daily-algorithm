@@ -38,3 +38,4 @@
 
 #### 滑动窗口
 - [1050. 爱生气的书店老板](https://github.com/Dark-volute/daily-algorithm/blob/main/category/爱生气的书店老板.md)
+- [239. 滑动窗口的最大值](https://github.com/Dark-volute/daily-algorithm/blob/main/category/滑动窗口的最大值.md)
