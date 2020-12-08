@@ -7,7 +7,8 @@
 #### 栈
 - [【day-03】394. 字符串解码](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-03.md)
 - [【day-04】768. 最多能完成排序的块 II](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-04.md)
-
+- [20. 有效的括号](https://github.com/Dark-volute/daily-algorithm/blob/main/category/有效的括号.md)
+- [32. 最长的有效的括号](https://github.com/Dark-volute/daily-algorithm/blob/main/category/最长的有效的括号.md)
 #### 链表
 - [【day-05】24. 两两交换链表中的节点](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-05.md)
 - [【day-06】142. 环形链表 II](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-06.md)
