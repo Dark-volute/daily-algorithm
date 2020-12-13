@@ -31,6 +31,7 @@
 
 #### Trie
 - [208. 实现 Trie (前缀树)](https://github.com/Dark-volute/daily-algorithm/blob/main/category/Trie.md)
+- [17. 多次搜索](https://github.com/Dark-volute/daily-algorithm/blob/main/category/多次搜索.md)
 
 ### 专题
 #### 单调栈

@@ -72,3 +72,7 @@ Trie.prototype.startsWith = function(prefix) {
 };
 
 ```
+
+## 复杂度分析
+时间复杂度：$O(L)$，L 是字符串长度， insert search startsWith 操作都是。
+空间复杂度：$O(M^{L})$，L 是字符串长度，M 是字符集中字符个数，如本题中 M 就是 26。
