@@ -28,6 +28,7 @@
 - [78. 子集](https://github.com/Dark-volute/daily-algorithm/blob/main/category/子集.md)
 - [22. 括号生成](https://github.com/Dark-volute/daily-algorithm/blob/main/category/括号生成.md)
 - [46. 全排列](https://github.com/Dark-volute/daily-algorithm/blob/main/category/全排列.md)
+- [47. 全排列](https://github.com/Dark-volute/daily-algorithm/blob/main/category/全排列II.md)
 
 #### Trie
 - [208. 实现 Trie (前缀树)](https://github.com/Dark-volute/daily-algorithm/blob/main/category/Trie.md)
