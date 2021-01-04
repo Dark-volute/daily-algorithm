@@ -28,7 +28,7 @@
 - [78. 子集](https://github.com/Dark-volute/daily-algorithm/blob/main/category/子集.md)
 - [22. 括号生成](https://github.com/Dark-volute/daily-algorithm/blob/main/category/括号生成.md)
 - [46. 全排列](https://github.com/Dark-volute/daily-algorithm/blob/main/category/全排列.md)
-- [47. 全排列](https://github.com/Dark-volute/daily-algorithm/blob/main/category/全排列II.md)
+- [47. 全排列II](https://github.com/Dark-volute/daily-algorithm/blob/main/category/全排列II.md)
 
 #### Trie
 - [208. 实现 Trie (前缀树)](https://github.com/Dark-volute/daily-algorithm/blob/main/category/Trie.md)
@@ -47,3 +47,6 @@
 #### 滑动窗口
 - [1050. 爱生气的书店老板](https://github.com/Dark-volute/daily-algorithm/blob/main/category/爱生气的书店老板.md)
 - [239. 滑动窗口的最大值](https://github.com/Dark-volute/daily-algorithm/blob/main/category/滑动窗口的最大值.md)
+
+#### 二分
+- [162. 寻找峰值](https://github.com/Dark-volute/daily-algorithm/blob/main/category/寻找峰值.md)
