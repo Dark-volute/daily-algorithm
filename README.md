@@ -48,5 +48,6 @@
 - [1050. 爱生气的书店老板](https://github.com/Dark-volute/daily-algorithm/blob/main/category/爱生气的书店老板.md)
 - [239. 滑动窗口的最大值](https://github.com/Dark-volute/daily-algorithm/blob/main/category/滑动窗口的最大值.md)
 - [1456. 定长子串中元音的最大数目](https://github.com/Dark-volute/daily-algorithm/blob/main/category/最大元音.md)
+- [76. 最小覆盖子串](https://github.com/Dark-volute/daily-algorithm/blob/main/category/最小覆盖子串.md)
 #### 二分
 - [162. 寻找峰值](https://github.com/Dark-volute/daily-algorithm/blob/main/category/寻找峰值.md)
