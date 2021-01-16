@@ -31,6 +31,7 @@
 - [47. 全排列II](https://github.com/Dark-volute/daily-algorithm/blob/main/category/全排列II.md)
 - [78. 组合](https://github.com/Dark-volute/daily-algorithm/blob/main/category/组合.md)
 - [39. 组合总和](https://github.com/Dark-volute/daily-algorithm/blob/main/category/组合总和.md)
+- [93. 复原ip地址](https://github.com/Dark-volute/daily-algorithm/blob/main/category/复原IP地址.md)
 #### Trie
 - [208. 实现 Trie (前缀树)](https://github.com/Dark-volute/daily-algorithm/blob/main/category/Trie.md)
 - [17. 多次搜索](https://github.com/Dark-volute/daily-algorithm/blob/main/category/多次搜索.md)
