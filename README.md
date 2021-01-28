@@ -56,3 +56,4 @@
 - [162. 寻找峰值](https://github.com/Dark-volute/daily-algorithm/blob/main/category/寻找峰值.md)
 #### 动态规划
 - [62.不同路径](https://github.com/Dark-volute/daily-algorithm/blob/main/dp/不同路径.md)
+- [47. 礼物的最大价值](https://github.com/Dark-volute/daily-algorithm/blob/main/dp/礼物的最大价值.md)
