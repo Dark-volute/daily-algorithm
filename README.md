@@ -40,7 +40,7 @@
 ### 专题
 #### 单调栈
 - [739. 每日温度](https://github.com/Dark-volute/daily-algorithm/blob/main/category/739.md)
-
+- [503. 下一个更大元素 II](https://github.com/Dark-volute/daily-algorithm/blob/main/category/下一个更大元素II.md)
 #### 双指针
 - [3. 无重复字符的最长子串](https://github.com/Dark-volute/daily-algorithm/blob/main/category/3.md)
 - [35. 搜索插入位置](https://github.com/Dark-volute/daily-algorithm/blob/main/category/35.md)
