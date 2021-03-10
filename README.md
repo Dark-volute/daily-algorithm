@@ -55,6 +55,9 @@
 #### 二分
 - [162. 寻找峰值](https://github.com/Dark-volute/daily-algorithm/blob/main/category/寻找峰值.md)
 - [69. x 的平方根](https://github.com/Dark-volute/daily-algorithm/blob/main/category/x的平方根.md)
+- [11. 旋转数组的最小数字](https://github.com/Dark-volute/daily-algorithm/blob/main/category/旋转数组的最小数字.md)
+
+
 #### 动态规划
 - [62.不同路径](https://github.com/Dark-volute/daily-algorithm/blob/main/dp/不同路径.md)
 - [47. 礼物的最大价值](https://github.com/Dark-volute/daily-algorithm/blob/main/dp/礼物的最大价值.md)
