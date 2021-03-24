@@ -16,8 +16,10 @@
 - [【day-08】61. 旋转链表](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-08.md)
 
 #### 树
-- [104. 二叉树的最大深度](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-09.md)
-- [100. 相同的树](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-12.md)
+- [104. 二叉树的最大深度](https://github.com/Dark-volute/daily-algorithm/blob/main/Binary-Tree/二叉树的最大深度.md)
+- [100. 相同的树](https://github.com/Dark-volute/daily-algorithm/blob/main/Binary-Tree/相同的树.md)
+- [二叉树的前中后序遍历](https://github.com/Dark-volute/daily-algorithm/blob/main/Binary-Tree/二叉树的前中后序遍历.md)
+
 
 #### HashMap
 - [【day-10】1. 两数之和](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-10.md)
