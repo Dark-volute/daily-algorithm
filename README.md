@@ -49,6 +49,7 @@
 - [74. 搜索二位矩阵](https://github.com/Dark-volute/daily-algorithm/blob/main/category/74.md)
 - [876. 链表的中间结点](https://github.com/Dark-volute/daily-algorithm/blob/main/category/876.md)
 - [26. 删除排序数组中的重复项](https://github.com/Dark-volute/daily-algorithm/blob/main/category/删除排序数组中的重复项.md)
+- [80. 删除有序数组中的重复项 II](https://github.com/Dark-volute/daily-algorithm/blob/main/category/删除排序数组中的重复项2.md)
 #### 滑动窗口
 - [1050. 爱生气的书店老板](https://github.com/Dark-volute/daily-algorithm/blob/main/category/爱生气的书店老板.md)
 - [239. 滑动窗口的最大值](https://github.com/Dark-volute/daily-algorithm/blob/main/category/滑动窗口的最大值.md)
