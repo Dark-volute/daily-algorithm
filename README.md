@@ -9,6 +9,7 @@
 #### 数组
 - [【day-01】66.加一](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-01.md)
 - [【day-02】821. 字符的最短距离](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-02.md)
+- [989.数组形式的整数加法](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/数组形式的整数加法.md)
 
 #### 栈
 - [【day-03】394. 字符串解码](https://github.com/Dark-volute/daily-algorithm/blob/main/basic/day-03.md)
